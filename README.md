@@ -1,2 +1,2 @@
-# springcloud-basic
-springcloud的一些练习 包括springboot、springsecurity、thymeleaf、elasticsearch等
+# spring-basic
+spring的一些练习
